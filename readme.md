@@ -14,3 +14,8 @@
     工程化vite配置 将index.html 与 assets 的关系配置成 ./
     github 中可能有好多个项目
     / 根路径
+
+- 在github中上传了源码 
+
+- npm i gh-pages
+    专门负责dist 目录的在线访问
